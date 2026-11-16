@@ -52,7 +52,7 @@ curl http://localhost:8888/metrics
 Running AI in production at scale? Upgrade to the **Enterprise Edition** to unlock 24-hour+ persistent caching, multi-node cluster synchronization, automated PII scrubbing, and smart model routing.
 
 **To request an Enterprise License Key (`ENT-...`) and schedule an architecture review, contact:**
-* **Email:** `brentangel@gmail.com` *(Replace with your actual email before publishing)*
+* **Email:** `brentangel@gmail.com`
 
 ---
 
